@@ -20,7 +20,7 @@ This example uses the following technologies:
 
 ## Installation
 
-In order to use this application, you will need to install `Jupyter` and `pandas`. Below are the instructions for installing each required library.
+In order to use this application, you will need to install `Jupyter`, `pandas` and '`Alpaca` SDK.   The `json` and `requests` library come with Python already, so there are no steps required to install those libraries.  Below are the instructions for installing each required library.
 
 ### Installing Jupyter
 
@@ -29,14 +29,6 @@ To install Jupyter, please refer to the [Jupyter Installation Guide](https://jup
 ### Installing pandas
 
 To install `pandas`, please refer to the [pandas Installation Guide](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html).
-
-### Installing json
-
-@TODO
-
-### Installing requests
-
-@TODO
 
 ### Installing Alpaca
 
@@ -63,19 +55,19 @@ To launch the Notebook, perform the following steps:
 
 ### Evaluate the Cryptocurrency Wallet by Using the Requests Library
 
-![Jupyter](/images/jupyter_requests.jpg)
+![Evaluate Cryptocurrency Wallet](/images/jupyter_requests.jpg)
 
 ### Evaluate the Stock and Bond Holdings by Using the Alpaca SDK
 
-![Jupyter](/images/jupyter_alpaca.jpg)
+![Evaluage with Alpaca SDK](/images/jupyter_alpaca.jpg)
 
 ## Evaulate the Emergency Fund
 
-@TODO
+![Evaluate Emergency Fund](/images/jupyter_emergency_fund.jpg)
 
 ## Create the Monte Carlo Simulation
 
-@TODO
+![Monte Carlo Simulation](/images/jupyter_monte_carlo.jpg)
 
 ## Contributors
 
